@@ -4,9 +4,7 @@ All notable changes to Sound HSA are documented in this file.
 
 ## [1.0.4] - 2026-03-04
 
-### Added
-
-#### Lightning Wallet (Breez SDK)
+### Lightning Wallet (Breez SDK)
 - Full Bitcoin Lightning wallet integration via Breez SDK (upgraded to v0.10.0)
 - Send and receive Lightning payments with QR code scanning
 - Lightning address registration via LNURL
@@ -17,7 +15,7 @@ All notable changes to Sound HSA are documented in this file.
 - Conversion details (BTC/USD) attached to all payment records
 - Responsive font scaling in wallet components
 
-#### HSA Dashboard & Charts
+### HSA Dashboard & Charts
 - Connecting existing HSA with the mobile app
 - Interactive HSA chart with touch-based scrubbing for BTC and USD savings cards
 - Haptic feedback on chart interactions
@@ -25,8 +23,6 @@ All notable changes to Sound HSA are documented in this file.
 - Balance history fetching with Bitcoin price integration
 - Pull-to-refresh on dashboard
 - Updated total HSA value calculation
-
----
 
 ## [0.3.11] - 2025-09 (baseline)
 

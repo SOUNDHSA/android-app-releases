@@ -1,6 +1,8 @@
 # android-app-releases
 here you will find recent apk releases of the sound hsa app for android.
 
+Checkout zapstore.dev to get latest android releases.
+
 ## 1.0.4
 
 sha256 hash
