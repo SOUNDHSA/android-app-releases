@@ -32,7 +32,7 @@ All notable changes to Sound HSA are documented in this file.
 - Basic HSA tab, offers screen, and earn-steps screen
 - Apple HealthKit / pedometer step tracking with 7-day average
 - Push notification subscription and encrypted server exchange
-- Amplitude analytics with NPUB SHA256 identification
+- Analytics with SHA256 hashed/anonymized identification
 - Waitlist subscription flow
 - Basic login and signup screens
 - Nostr relay publishing via pool
